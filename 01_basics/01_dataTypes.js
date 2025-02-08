@@ -1,0 +1,1 @@
+//null is of 'object' datatype
